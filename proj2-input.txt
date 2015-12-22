@@ -1,0 +1,4 @@
+http://example.com/object1 50 0
+http://example.com/object2 25 1
+http://example.another.com/repo/objects/1 250 0
+ftp://ftpserver.abc.edu:8080 13 5
